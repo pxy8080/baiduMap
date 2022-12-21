@@ -1,5 +1,6 @@
 这是一个地图APP，有定位、路线规划、搜索、天气、景点、个性化地图、路况等功能。
-详细[菜鸟教程][百度地图SDK使用](https://lbsyun.baidu.com/index.php?title=androidsdk)
+
+详细[百度地图SDK使用](https://lbsyun.baidu.com/index.php?title=androidsdk)
 
 功能结构图
 ![Image text](https://github.com/liuchunchang/Map-app-based-on-Baidu-map-SDK/blob/master/images/xitonggongnengtu.png)
